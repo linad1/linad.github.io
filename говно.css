@@ -1,0 +1,83 @@
+ body{
+	 background-image:url(assets/ptica_kivi2.jpg)
+ }
+ #w {
+	 background-color:#C4766B;
+	 color:black;
+	padding:25px;
+	margin:15px;
+	border:20px solid #F06A41;
+	background-color:white;
+	border-radius:30px;
+ opacity:0.7;
+  box-shadow: 10px 10px 10px #2F3841;
+ }
+ 
+ 
+ #w:hover {
+	 opacity:1
+ 
+ }
+ #e {
+	 background-color:#C4766B;
+	 color:black;
+	padding-top:-35px;
+	margin-top:100px;
+	border:20px solid #F06A41;
+	background-color:white;
+	border-radius:30px;
+ opacity:0.7;
+  box-shadow: 10px 10px 10px #2F3841;
+ }
+ 
+ 
+ #e:hover {
+	 opacity:1
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  #r {
+	 background-color:#C4766B;
+	 color:black;
+	padding:10px;
+	margin:25px;
+	border:20px solid #F06A41;
+	background-color:white;
+	border-radius:30px;
+ opacity:0.7;
+  box-shadow: 10px 10px 10px #2F3841;
+ }
+ 
+ 
+ #r:hover {
+	 opacity:1
+ }
+h3 {
+	color:black;
+	border: 5px solid #F06541;
+	background-color:white;
+	border-radius:30px;
+	opacity:0.8;
+	
+	h3:hover {
+	opacity:1;
+	}
+	
+	#mm {
+		color:#F0004D;
+		
+	}
+
+h4
+
+
+ 
